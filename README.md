@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Angular 13**
 
-- 👯 I’m looking to collaborate on **https://github.com/nguyenhoanganh1/LapTrinhWeb**
+- 👯 I’m looking to collaborate on **https://github.com/nguyenhoanganh1/**
 
 - 🤝 I’m looking for help with **Anyone**
 
