@@ -17,8 +17,7 @@ I'm a fullstack Developer.
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=nguyenhoanganh1
-&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=nguyenhoanganh1&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
