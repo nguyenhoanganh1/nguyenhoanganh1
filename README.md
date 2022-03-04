@@ -26,6 +26,10 @@
 - 📄 Know about my experiences [https://github.com/nguyenhoanganh1](https://github.com/nguyenhoanganh1)
 
 - ⚡ Fun fact **I think I am funny**
+- ### Hobbies
+football, volleyball, cooking, traveling <img src="https://www.icegif.com/wp-content/uploads/smiley-face-icegif-3.gif" width="50px" alt="hi">
+
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
