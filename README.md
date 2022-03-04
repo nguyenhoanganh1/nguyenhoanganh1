@@ -3,12 +3,9 @@
 I'm a fullstack Developer.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-nguyenhoanganh1
--0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vuduylinh/) 
-[![Mail Badge](https://img.shields.io/badge/-@nguyenhoanganh1
--e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/duylinh313) 
-[![Mail Badge](https://img.shields.io/badge/-nguyenhoanganh1
--c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vulinh3609@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-nguyenhoanganh1-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vuduylinh/) 
+[![Mail Badge](https://img.shields.io/badge/-@nguyenhoanganh1-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/duylinh313) 
+[![Mail Badge](https://img.shields.io/badge/-nguyenhoanganh1-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vulinh3609@gmail.com)
 
 #### Top Technologies
 
