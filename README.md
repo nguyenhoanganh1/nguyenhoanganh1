@@ -11,6 +11,9 @@ I'm a fullstack Developer.
 
 [![Angular Badge](https://img.shields.io/badge/-Angular-red?style=for-the-badge&labelColor=black&logo=Angular&logoColor=red)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-green?style=for-the-badge&labelColor=black&logo=springboot&logoColor=green)](#) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&labelColor=white&logo=Bootstrap&logoColor=purple)](#) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhoanganh1)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Hobbies
 - football, volleyball, cooking, traveling <img src="https://www.icegif.com/wp-content/uploads/smile-icegif-1.gif" width="28px" alt="hi">
 
@@ -20,7 +23,7 @@ I'm a fullstack Developer.
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=nguyenhoanganh1&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhoanganh1)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [reactplaylist]: https://www.youtube.com/
