@@ -20,6 +20,7 @@ I'm a fullstack Developer.
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=nguyenhoanganh1&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhoanganh1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [reactplaylist]: https://www.youtube.com/
