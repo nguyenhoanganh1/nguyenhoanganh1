@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 - ### Hobbies
-football, volleyball, cooking, traveling <img src="https://www.icegif.com/wp-content/uploads/smiley-face-icegif-3.gif" width="50px" alt="hi">
+- football, volleyball, cooking, traveling <img src="https://www.icegif.com/wp-content/uploads/smiley-face-icegif-3.gif" width="50px" alt="hi">
 
 
 
