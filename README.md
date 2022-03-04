@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nguyenhoanganh1/](https://github.com/nguyenhoanganh1/)
 
-- 📝 I regularly write articles on [https://github.com/nguyenhoanganh1/LapTrinhWeb](https://github.com/nguyenhoanganh1/LapTrinhWeb)
+- 📝 I regularly write articles on [https://github.com/nguyenhoanganh1/Do-An-Chuyen-Nghanh](https://github.com/nguyenhoanganh1/Do-An-Chuyen-Nghanh)
 
 - 💬 Ask me about **Angular 13**
 
