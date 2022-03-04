@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Anyone**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nguyenhoanganh1/LapTrinhWeb](https://github.com/nguyenhoanganh1/LapTrinhWeb)
+- 👨‍💻 All of my projects are available at [https://github.com/nguyenhoanganh1/](https://github.com/nguyenhoanganh1/)
 
 - 📝 I regularly write articles on [https://github.com/nguyenhoanganh1/LapTrinhWeb](https://github.com/nguyenhoanganh1/LapTrinhWeb)
 
