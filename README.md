@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Hutech University**
 
-- 🌱 I’m currently learning **Angular 13**
+- 🌱 I’m currently learning **Angular 12**
 
 - 👯 I’m looking to collaborate on **https://github.com/nguyenhoanganh1/**
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **hoanganh2.dev@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/nguyenhoanganh1](https://github.com/nguyenhoanganh1)
+- 📄 Know about my experiences [https://github.com/nguyenhoanganh1/NgRx-CRUD-API](https://github.com/nguyenhoanganh1/NgRx-CRUD-API)
 
 - ⚡ Fun fact **I think I am funny**
 - ### Hobbies
