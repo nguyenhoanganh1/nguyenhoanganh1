@@ -4,10 +4,10 @@
   <a href="https://www.linkedin.com/in/anh-nguy%E1%BB%85n-681436214/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCfALbbh94BT_dkExYDElZxg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/Anh29084128">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -22,10 +22,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on **Hutech University**
+- 🔭 I’m currently studying on **Hutech University**
 
 - 🌱 I’m currently learning **Angular 12**
 
@@ -44,14 +45,14 @@
 - 📄 Know about my experiences [https://github.com/nguyenhoanganh1/NgRx-CRUD-API](https://github.com/nguyenhoanganh1/NgRx-CRUD-API)
 
 - ⚡ Fun fact **I think I am funny**
-- ### Hobbies
+
+---
+
+### :writing_hand: Hobbies
 - football, volleyball, cooking, traveling <img src="https://www.icegif.com/wp-content/uploads/smiley-face-icegif-3.gif" width="50px" alt="hi">
 
+---
 
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -61,7 +62,9 @@
 <a href="https://fb.com/hoanganh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoanganh" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -75,8 +78,9 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>&nbsp;
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenhoanganh1&theme=dark&background=000000&show_icons=true&locale=en&layout=compact" alt="nguyenhoanganh1" /></p>
+---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenhoanganh1&theme=dark&background=000000&show_icons=true&locale=en&layout=compact" alt="nguyenhoanganh1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenhoanganh1&theme=dark&background=000000&show_icons=true&locale=en" alt="nguyenhoanganh1" /></p>
 
