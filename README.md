@@ -80,7 +80,7 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenhoanganh1&theme=dark&background=000000&show_icons=true&locale=en&layout=compact" alt="nguyenhoanganh1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenhoanganh1&theme=dark&background=000000&show_icons=true&locale=en&layout=compact&hide=javascript,html,css,c#" alt="nguyenhoanganh1" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenhoanganh1&theme=dark&background=000000&show_icons=true&locale=en" alt="nguyenhoanganh1" /></p>
 
